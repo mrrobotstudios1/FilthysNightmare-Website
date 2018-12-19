@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+	background-color: hsl(0, 0%, 21%);
+	font-family: 'Poppins', sans-serif;
+}
+
+.title, .subtitle, p {
+	color: white;
+}
+
+.pfp {
+	width: 300px;
+	border-radius: 9%;
+	margin: auto;
+	display: block;
+}
+
+footer.footer {
+	background-color: transparent;
+	padding: 1px;
+}
